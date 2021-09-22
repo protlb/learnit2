@@ -1,0 +1,2 @@
+a.txt is already in github.
+i create b.txt and study again.
